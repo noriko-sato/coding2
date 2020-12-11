@@ -1,0 +1,227 @@
+.kyevisual__area {
+  background: #9bc7b9;
+  background: -webkit-gradient(linear, left top, right top, color-stop(10%, #9bc7b9), color-stop(30%, white), color-stop(50%, #9bc7b9), color-stop(80%, white), to(#9bc7b9));
+  background: linear-gradient(90deg, #9bc7b9 10%, white 30%, #9bc7b9 50%, white 80%, #9bc7b9 100%);
+  padding: 10%;
+}
+
+.kyevisual__area-content {
+  margin: 25% auto;
+  text-align: left;
+}
+
+.kyevisual__area-text {
+  text-align: center;
+  color: #555;
+  font-size: 1.125rem;
+  line-height: 1.2;
+}
+
+.kyevisual__area-text-underline {
+  width: 50px;
+  border-bottom: 3px solid #555;
+  margin: 0 auto;
+}
+
+.kyevisual__area-title {
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 3%;
+}
+
+.kyevisual__area-box {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.kyevisual__area-box .kyevisual__area-img {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.kyevisual__area-box .kyevisual__area-img img {
+  width: 100%;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 768px) {
+  .kyevisual__area {
+    padding: 10% 10% 0% 10%;
+  }
+}
+
+.common__area-text {
+  text-align: center;
+  color: #555;
+  font-size: 1.2rem;
+  margin-top: 5%;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.common__area-text-underline {
+  width: 50px;
+  border-bottom: 3px solid #555;
+  margin: 0 auto;
+  margin-bottom: 5%;
+}
+
+.flex-row-list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.wedding__page-button-area {
+  max-width: 200px;
+  margin: 5% auto;
+}
+
+.wedding__page-button-area .wedding__page-button {
+  display: block;
+  font-weight: bold;
+  background: #fff;
+  color: #555;
+  border: 2px solid #555;
+  text-align: center;
+  border-radius: 5px;
+  padding: 3% 0;
+}
+
+.wedding__page-button-area .wedding__page-button:hover {
+  color: #333;
+  text-decoration: none;
+  opacity: .7;
+}
+
+.wedding__news-area-content {
+  text-align: center;
+  padding: 0% 5%;
+  margin-bottom: 3%;
+}
+
+.profile-list {
+  margin-bottom: 3%;
+}
+
+.wedding__profile-area {
+  background: #9bc7b9;
+  background: -webkit-gradient(linear, left top, right top, color-stop(10%, #9bc7b9), color-stop(30%, white), color-stop(50%, #9bc7b9), color-stop(80%, white), to(#9bc7b9));
+  background: linear-gradient(90deg, #9bc7b9 10%, white 30%, #9bc7b9 50%, white 80%, #9bc7b9 100%);
+  padding: 3%;
+}
+
+.wedding__profile-area-img {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.wedding__profile-area-img img {
+  border-radius: 50%;
+  width: 100%;
+  padding: 5%;
+}
+
+.wedding__profile-area-content {
+  padding: 0 5% 5% 5%;
+}
+
+.wedding__profile-area-title {
+  font-size: 1.125rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 2%;
+}
+
+.wedding__profile-area-text {
+  margin-bottom: 2%;
+}
+
+.wedding__access-area {
+  padding: 3%;
+}
+
+.wedding__access-area-content {
+  text-align: left;
+}
+
+.wedding__access-area-content :nth-child(5),
+.wedding__access-area-content :nth-child(6) {
+  border-bottom: none;
+}
+
+.wedding__access-area-text {
+  text-align: center;
+  color: #555;
+  font-size: 1.125rem;
+  line-height: 1.2;
+}
+
+.wedding__access-area-text-underline {
+  width: 50px;
+  border-bottom: 3px solid #555;
+  margin: 0 auto;
+}
+
+.wedding__access-area-title {
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 3%;
+}
+
+.wedding__access-area-box {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.wedding__access-area-box .wedding__access-area-img {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.wedding__access-area-box .wedding__access-area-img img {
+  width: 100%;
+  margin: 0 auto;
+  padding: 2% 0%;
+}
+
+.wedding__access-area-body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.wedding__access-area-body dt {
+  width: 20%;
+  border-bottom: 1px solid #d8d7d7;
+  padding: 1% 0%;
+}
+
+.wedding__access-area-body dd {
+  width: 80%;
+  border-bottom: 1px solid #d8d7d7;
+  padding: 1% 0%;
+}
+
+.wedding__access-area-body iframe {
+  padding: 3% 0%;
+}
+
+@media screen and (max-width: 768px) {
+  .kyevisual__area {
+    padding: 10% 10% 0% 10%;
+  }
+}
+
+.coding2__footer-area {
+  background: #9bc7b9;
+  background: -webkit-gradient(linear, left top, right top, color-stop(10%, #9bc7b9), color-stop(30%, white), color-stop(50%, #9bc7b9), color-stop(80%, white), to(#9bc7b9));
+  background: linear-gradient(90deg, #9bc7b9 10%, white 30%, #9bc7b9 50%, white 80%, #9bc7b9 100%);
+  padding: 1% 0;
+  text-align: center;
+  font-size: .5rem;
+  color: #888;
+}
+/*# sourceMappingURL=style.css.map */
